@@ -1,0 +1,14 @@
+.wrapper {
+  font-family: 'Oxygen Mono', monospace;
+  margin: 0 auto;
+  margin-top: 75px;
+  width: 80%;
+  max-width: 600px;
+  background-color: white;
+  position:relative;
+  height:100%;
+}
+
+.display img {
+  width: 600px;
+}
